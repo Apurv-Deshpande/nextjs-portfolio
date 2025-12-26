@@ -11,7 +11,7 @@
         "/tech/tailwind.png",
         "/tech/typescript.png"
       ],
-      "header_img_url": "/portfolio-next.png",
+      "header_img_url": "/proj-portfolio.png",
       "github_url": "https://github.com/Apurv-Deshpande/nextjs-portfolio"
     },
 
@@ -30,34 +30,6 @@
       ],
       "header_img_url": "/football-stadium.png",
       "github_url": "https://github.com/Apurv-Deshpande/nextjs-portfolio"
-    },
-    {
-      "name": "Course App Angular",
-      "slug": "CourseAppMEAN",
-      "homepage": true,
-      "description": "Developed a Courses App Application using Angular NodeJS, Express and MongoDB(MEAN). It shows list of all programming courses and youtube player to view them. You can add, edit and delete courses once you are authenticated and authorized",
-      "tech_image_url": [
-        "/tech/angular.png",
-        "/tech/javascript.png",
-        "/tech/nodejs.png",
-        "/tech/mongodb.png"
-      ],
-      "header_img_url": "/course-angular.png"
-    },
-    {
-      "name": "Course App",
-      "slug": "CourseApp",
-      "homepage": true,
-      "description": "List of all the programming courses and a youtube player to view them. Built with react, bootstrap,node, mongodb ,node and redux",
-      "tech_image_url": [
-        "/tech/react.png",
-        "/tech/javascript.png",
-        "/tech/nodejs.png",
-        "/tech/bootstrap.png",
-        "/tech/mongodb.png",
-        "/tech/redux.png"
-      ],
-      "header_img_url": "/course.png"
     }
   ]
 }
