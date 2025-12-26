@@ -1,0 +1,69 @@
+{
+  "name": "Apurv Deshpande",
+  "titles": ["Masters in Cloud Computing", "Bachelor of Computer Science "],
+  "bio": "I am Computer Science Graduate with Master’s degree in Cloud Computing from National College of Ireland. I am a fast learner and eager to learn new technologies as needed with ability to multitask on projects.",
+  "contacts": {
+    "phone": "7219494098",
+    "email": "apurvdeshpande02@gmail.com",
+    "github": "Apurv-Deshpande"
+  },
+  "hobbies": ["Web Development", "Travelling", "Football"],
+  "schools": [
+    {
+      "name": "National College Of Ireland",
+
+      "location": "Dublin, Ireland",
+      "major1": "Cloud Computing",
+      "coursework": [
+        {
+          "title": "Cloud Application Development"
+        },
+
+        {
+          "title": "Cloud Architecture"
+        },
+        {
+          "title": "Cloud Security"
+        },
+        {
+          "title": "Cloud Application Services"
+        },
+        {
+          "title": "Programming for Data Analytics"
+        },
+        {
+          "title": "Research in Computing"
+        },
+        {
+          "title": "Research Projects"
+        }
+      ]
+    },
+    {
+      "name": "College Of Engineering Manjri",
+
+      "location": "Pune, India",
+      "major1": "Computer Science",
+      "coursework": [
+        {
+          "title": "Object-oriented Programming and Software Engineering"
+        },
+        {
+          "title": "Relational Database Management Systems"
+        },
+        {
+          "title": "Data Structures and Algorithms"
+        },
+        {
+          "title": "Networks and Security"
+        },
+        {
+          "title": "Algorithms, Agents and Artificial Intelligence"
+        },
+        {
+          "title": "Discrete Structures"
+        }
+      ]
+    }
+  ]
+}

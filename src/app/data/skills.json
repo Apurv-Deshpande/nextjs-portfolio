@@ -1,0 +1,51 @@
+{
+  "skills": [
+    {
+      "name": "React",
+      "imagePath": "/tech/react.png"
+    },
+    {
+      "name": "HTML5",
+      "imagePath": "/tech/html5.png"
+    },
+    {
+      "name": "JavaScript",
+      "imagePath": "/tech/javascript.png"
+    },
+    {
+      "name": "NodeJS",
+      "imagePath": "/tech/nodejs.png"
+    },
+    {
+      "name": "Bootstrap",
+      "imagePath": "/tech/bootstrap.png"
+    },
+    {
+      "name": "MongoDB",
+      "imagePath": "/tech/mongodb.png"
+    },
+    {
+      "name": "Redux",
+      "imagePath": "/tech/redux.png"
+    },
+
+    {
+      "name": "Express",
+      "imagePath": "/tech/express.png"
+    },
+
+    {
+      "name": "CSS3",
+      "imagePath": "/tech/css.png"
+    },
+
+    { "name": "Python", "imagePath": "/tech/python.png" },
+    { "name": "Cursor", "imagePath": "/tech/cursor.png" },
+    { "name": "Copilot", "imagePath": "/tech/copilot.png" },
+    { "name": "GitHub", "imagePath": "/tech/github.png" },
+    { "name": "NextJS", "imagePath": "/tech/nextjs.png" },
+    { "name": "TypeScript", "imagePath": "/tech/typescript.png" },
+    { "name": "Tailwind CSS", "imagePath": "/tech/tailwind.png" },
+    { "name": "PostgreSQL", "imagePath": "/tech/postgresql.png" }
+  ]
+}
