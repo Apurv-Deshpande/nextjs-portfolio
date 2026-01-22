@@ -46,6 +46,8 @@
     { "name": "NextJS", "imagePath": "/tech/nextjs.png" },
     { "name": "TypeScript", "imagePath": "/tech/typescript.png" },
     { "name": "Tailwind CSS", "imagePath": "/tech/tailwind.png" },
-    { "name": "PostgreSQL", "imagePath": "/tech/postgresql.png" }
+    { "name": "PostgreSQL", "imagePath": "/tech/postgresql.png" },
+    { "name": "fastapi", "imagePath": "/tech/fastapi.png" },
+    { "name": "Langchain", "imagePath": "/tech/langchain.png" }
   ]
 }

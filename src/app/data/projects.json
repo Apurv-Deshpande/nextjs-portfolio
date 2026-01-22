@@ -30,6 +30,22 @@
       ],
       "header_img_url": "/football-stadium.png",
       "github_url": "https://github.com/Apurv-Deshpande/FootballStadium"
+    },
+
+    {
+      "name": "Langraph-Restaurant-Booking-App",
+      "slug": "LanggraphApp",
+      "homepage": true,
+      "description": "A restaurant booking app where users can book tables at a restaurant. Built with FastApi, Langchian, Langraph and React stack using Gemini API .",
+      "tech_image_url": [
+        "/tech/react.png",
+        "/tech/javascript.png",
+        "/tech/python.png",
+        "/tech/fastapi.png",
+        "/tech/langchain.png"
+      ],
+      "header_img_url": "/langchain-table-booking.png",
+      "github_url": "https://github.com/Apurv-Deshpande/langgraph-booking"
     }
   ]
 }
