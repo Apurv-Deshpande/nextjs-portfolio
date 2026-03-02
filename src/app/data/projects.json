@@ -33,10 +33,10 @@
     },
 
     {
-      "name": "Langraph-Restaurant-Booking-App",
-      "slug": "LanggraphApp",
+      "name": "AI-PDF-Query-App",
+      "slug": "AIApp",
       "homepage": true,
-      "description": "A restaurant booking app where users can book tables at a restaurant. Built with FastApi, Langchian, Langraph and React stack using Gemini API .",
+      "description": "A PDF query app where users can upload a PDF and ask questions about the content of the PDF. Built with FastApi, Langchian and React stack using Gemini API .",
       "tech_image_url": [
         "/tech/react.png",
         "/tech/javascript.png",
@@ -44,7 +44,24 @@
         "/tech/fastapi.png",
         "/tech/langchain.png"
       ],
-      "header_img_url": "/langchain-table-booking.png",
+      "header_img_url": "/pdf-qa.png",
+      "github_url": "https://github.com/Apurv-Deshpande/AI-PDF-QUERY"
+    },
+
+    {
+      "name": "Langraph-Restaurant-Booking-App",
+      "slug": "LanggraphApp",
+      "homepage": true,
+      "description": "A restaurant booking app where users can book tables at a restaurant. Built with FastApi, Langchian, Langraph, Redux and React stack using Gemini API .",
+      "tech_image_url": [
+        "/tech/react.png",
+        "/tech/redux.png",
+        "/tech/javascript.png",
+        "/tech/python.png",
+        "/tech/fastapi.png",
+        "/tech/langchain.png"
+      ],
+      "header_img_url": "",
       "github_url": "https://github.com/Apurv-Deshpande/langgraph-booking"
     }
   ]
